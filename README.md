@@ -1,25 +1,3 @@
-```
-MW00000000000000000000XMd,,,,dWWWWWWWWWd,,,,dMKccccccccccccccccccccXM
-MWOOOOOxxxxxOOkxxOOOOkcMl...................lM,,;;;;,,,,,,,,,,;;;;;XM
-MWOOOOx,OddOOOckKOOOOk;Ml..'lllllllllllll'..lM',;;;;loooooook.,;;;;XM
-MMXkoldOMMMMKOONMKOOdldMX::xMMMMMMMMMMMMMx::XMl:lkk0MMMMMMMMMkl:cxKMM
-MW000000000000xXW0000OkMkcccclxdccoxdccccccckMO0KKKKKKKKKKKKKKKKKKKWM
-MNkkkkkkkoookkoOKkkkkx;Md''.'''''''''''''.''dMckOOOOOdodOOOOOoOOOOOWM
-MWkdoooxxcOWkxxdoooool;Mx..lMMMMMMMMMMMMMl..xM:odkkOWMMMMMMMMcdddxOWM
-MWNNNNWMMMMMMMMMWWWNXXNMWNNNWWWWWWWWWWWWWNNNWMWNWWMMMMMMMMMWWWWNNWWMM
-MX''...............''''M0ooooooooooooooooooo0MlO0000000000xo0000000WM
-MX''.... kOOOOOOOl..''.M0oooXXXXXXXXKooOXooo0McO0KXXXXXXXXXKKKocd00WM
-MWOkxxxxdWMMMMMMMXxkkkxMN00KMMMMMMMMWKKNMK00NM0XXWMMMMMMMMMMMMKO0XNWM
-MNxxdddddddddOMMMXddddxMKkk0MMMMOkkkkkkkOkkkKMxxkkkkWNxkkWMMMxkkkkkWM
-MK..  .......,kkkc.....Mx;,:0000:;:cccccc;;;xM.'''''Ox.''kOO0.'''''XM
-MK   ...............  .Mx,,,;;;;;;kMMMMMMd,,xM,''''''''''''''''''''XM
-MMWNXNWMMMMMMMMMMMMWNXNMWNXWMMMMMMMMMMMMMWXNWMNXXXXWWWWNXXXXXXXXXWWMM
-MX;'..',,,,';MMMMMMx...MO::oMMMMMMMMMMMMMd::OM.....kMMM:.........';XM
-MX....,xx:...::;..'....Mkcc;:cddddddddoc::cckM............:O.......XM
-MXcccdKMMkcccccccoxoccxM0ddddddddddddddddddd0Mxccoxxxxxxxx0WOxxdcccXM
-MWKdc:lkkxXMMMMMMMMXl:cMXcckMMMMMMMMMMMMMkccXMxxxkONMMMMMMMWdOOxx0NMM
-MX........coloooooo;...Md'',odKKKKKKKKKdo,''dMckOOOOOOOOOOOx:kOllOOWM
-MK.......... .........'Md'''''''''''''''''''dMlkkkOOOOOOOOolxxkllkkWM
-MX;;;;;;;;;;OMMMMMMx;;KMk:::::::::::::::::::kMXO0XMMMMMMMMWk00WNk00WM
-```
+𝚒 𝚕𝚒𝚔𝚎 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚛𝚞𝚜𝚝 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜
 
+𝚝𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙𝚒𝚗𝚐 𝚖𝚎 𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 - 𝚒'𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚝𝚘𝚘, 𝚕𝚖𝚔
